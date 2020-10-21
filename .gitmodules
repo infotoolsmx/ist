@@ -1,0 +1,4 @@
+[submodule "infotoolsmx/external-addons"]
+	path = infotoolsmx/external-addons
+	url = git@github.com:infotoolsmx/external-addons.git
+	branch = 12.2
